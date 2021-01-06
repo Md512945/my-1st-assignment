@@ -1,5 +1,6 @@
 body{
     margin: 0px;
+    font-family: 'Gelasio', serif;
 }
 h1{
     font-size: 50px;
@@ -63,5 +64,19 @@ section{
 }
 .work{
     padding-top: 40px;
+}
+#banner{
+    background-image: url("./shapes/banner.png");
+    background-size: 1000px;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-position: 50% 0%;
+    height: 300px;
+}
+.work-inquiry{
+    color: white;
+}
+footer{
+    text-align: center;
 }
   
